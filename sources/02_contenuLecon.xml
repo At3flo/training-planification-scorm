@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:courseUa xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:uM>
+			<sp:title>02 | Contenu de la leçon</sp:title>
+		</op:uM>
+		<sp:courseUc>
+			<op:expUc>
+				<op:uM>
+					<sp:title>Description des colonnes d'exercices</sp:title>
+				</op:uM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Afin de pouvoir remplir le contenu de l'entraînement journalier, nous allons passer en revue les différents éléments qui composent ce dernier.</sc:para>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:info>
+					</op:pb>
+				</sp:pb>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>GAG - Global Analytique Global</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txtRes>
+											<op:txtRes>
+												<op:txtResM>
+													<sp:pos>lft</sp:pos>
+												</op:txtResM>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Dans la partie gauche du tableau, on retrouve trois sous-colones correspondantes au GAG.</sc:para>
+														<sc:para xml:space="preserve">C'est avec cette première partie, que l'on démarre la construction de l'entraînement, en choisissant tout d'abord la méthode. A savoir, est-ce que l'on cherche à travailler la forme globale du mouvement ou une partie fractionnée de celui-ci. </sc:para>
+														<sc:para xml:space="preserve">L'objectif étant de respecter le modèle mixte <sc:inlineStyle role="emp">G</sc:inlineStyle>lobal puis <sc:inlineStyle role="emp">A</sc:inlineStyle>nalytique et enfin <sc:inlineStyle role="emp">G</sc:inlineStyle>lobal.</sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:img sc:refUri="/ConceptionLeconGAG.png"/>
+											</op:txtRes>
+										</sp:txtRes>
+									</op:res>
+								</sp:info>
+								<sp:remind>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">La conception GAG est disponible ici : <sc:uLink role="ucLnk" sc:refUri="/formulerObjectifSmart.xml">toto</sc:uLink></sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:remind>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Objectif intermédiaire</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txtRes>
+											<op:txtRes>
+												<op:txtResM>
+													<sp:pos>rgt</sp:pos>
+												</op:txtResM>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Dans la partie d'objectif intermédiaire, on retrouve une déclinaison du but de la leçon mais décomposé par partie d'exercice afin de quantifier ce qui est maîtrisé de ce qui ne l'est pas et ainsi d'améliorer son entraînement.</sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:img sc:refUri="/ConceptionLeconObjectifIntermediaire.png"/>
+											</op:txtRes>
+										</sp:txtRes>
+									</op:res>
+								</sp:info>
+								<sp:warning>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">N'oubliez pas de faire des objectifs SMART, même pour les objectifs intermédiaires. Reportez-vous à l'<sc:uLink role="ucLnk" sc:refUri="/formulerObjectifSmart.xml">explication des objectifs SMART</sc:uLink> vue précédemment.</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:warning>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Choix d'exercice</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">C'est à cette étape là et seulement maintenant, que nous allons définir quel exercice nous allons appliquer pour atteindre le but recherché.</sc:para>
+												<sc:para xml:space="preserve">En respectant cette manière de procéder, à savoir : "Quel est mon but ? Donc j'applique précisément ça !" et pas l'inverse alors je suis assuré d'atteindre ma cible.</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:info>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Organisation</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">A ce niveau, il est impératif de noter clairement quelle est l'organisation de l'exercice retenue. Combien de groupe ? Deux par deux ? En individuel ?</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:info>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Pts à relever ou à corriger</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Pour la partie des points à relever, il convient de noter les points connus comme étant difficile à maîtriser, à suivre ou quels sont les parties techniques auxquels il ne faut pas oublier de prêter attention.</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:info>
+								<sp:comp>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Si le but a atteindre est clair, alors les corrections techniques ou organisationnelles deviennent limpides à appliquer. </sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:comp>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Matériel &amp; Durée de l'exercice</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">On prêtera attention à noter le matériel nécessaire et de vérifier que celui-ci est disponible, ou dans le cas contraire, de le préparer à l'avance. </sc:para>
+												<sc:para xml:space="preserve">On veillera également à correctement planifier son entraînement. Ni trop, ni trop peu. Visez plutôt la qualité à la quantité, l'intégration par les joueurs n'en sera que meilleure,</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:info>
+								<sp:warning>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Un entraîneur désorganisé entraîne systématiquement un entraînement désorganisé. Ce qui a pour influence directe de diminuer le plaisir des joueurs, et donc la qualité de la leçon.</sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:warning>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+			</op:expUc>
+		</sp:courseUc>
+		<sp:trainUcCloze sc:refUri="/02_tatContenuLecon.quiz"/>
+	</op:courseUa>
+</sc:item>

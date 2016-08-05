@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ue xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:ueM>
+			<sp:title>Planification de l'entraînement journalier</sp:title>
+		</op:ueM>
+		<sp:obj>
+			<op:sTxt>
+				<sc:para xml:space="preserve">Dans ce module, nous allons aborder le remplissage de la fiche de planification de l'entraînement journalier.</sc:para>
+				<sc:para xml:space="preserve"> </sc:para>
+				<sc:para xml:space="preserve">A la fin de ce module vous serez capable de :</sc:para>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">introduire les buts de la leçon en lien avec la planification annuelle ;</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">sélectionner la méthode d'apprentissage, les exercices et l’organisation appropriés ;</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">identifier les indicateurs d’analyse la leçon pendant et après l'entraînement.</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+			</op:sTxt>
+		</sp:obj>
+		<sp:intro>
+			<op:filter/>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve"><sc:inlineStyle role="emp">PRÉREQUIS</sc:inlineStyle></sc:para>
+					</op:txt>
+				</sp:txt>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Ce module se base sur les connaissances acquises lors des cours et modules suivants :</sc:para>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">concept méthodologique I ;</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">types d'apprenants ;</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">degrés d'apprentissage ;</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">analyse d'équipe ;</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">conception de l'enseignement ;</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</sc:listItem>
+						</sc:itemizedList>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">concept méthodologique II ;</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">planification annuelle de l'entraînement .</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</sc:listItem>
+						</sc:itemizedList>
+					</op:txt>
+				</sp:txt>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>rgt</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Bref rappel de la conception de l'enseignement</sc:inlineStyle></sc:para>
+								<sc:orderedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Définir quel est la tâche, respectivement quel est l'objectif à atteindre (planification annuelle) ;</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">déterminer les contenus concrets de la leçon ainsi que les objectifs SMART y relatif (planification journalière) ;</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">et enfin, déterminer la variante d'enseignement et la méthode prometteuse.</sc:para>
+									</sc:listItem>
+								</sc:orderedList>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="spec">Choisissez un but à atteindre, puis le moyen d'y parvenir, pas l'inverse !</sc:inlineStyle></sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Conception_enseignement.png"/>
+					</op:txtRes>
+				</sp:txtRes>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Bref rappel de la méthodologie GAG</sc:inlineStyle></sc:para>
+								<sc:para xml:space="preserve">Global :</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">répéter la forme élémentaire</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">déterminer les tâches motrices</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">travailler avec des aides pédagogiques</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+								<sc:para xml:space="preserve">Analytique :</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">exercer à partir de mouvements connus</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">introduire un nouveau mouvement</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">fractionner des mouvements difficiles</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+								<sc:para xml:space="preserve">Global :</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">forme finale dans des conditions faciles</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">application de la matière enseignée</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">formes de concours, test</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/conceptionGAG.png"/>
+					</op:txtRes>
+				</sp:txtRes>
+			</op:res>
+		</sp:intro>
+		<sp:courseUa sc:refUri="/01_butLecon.xml"/>
+		<sp:courseUa sc:refUri="/02_contenuLecon.xml"/>
+		<sp:courseUa sc:refUri="/03_analyseLecon.xml"/>
+		<sp:courseUc>
+			<op:expUc>
+				<op:uM>
+					<sp:title>Ressources</sp:title>
+				</op:uM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve"><sc:uLink role="docLnk" sc:refUri="/fichePlanificationEntrainementJournalier.pdf">Fiche planification entraînement journalier</sc:uLink></sc:para>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:info>
+					</op:pb>
+				</sp:pb>
+			</op:expUc>
+		</sp:courseUc>
+		<sp:conclu>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">bla bla</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:conclu>
+	</op:ue>
+</sc:item>
