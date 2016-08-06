@@ -45,7 +45,7 @@
 														<sc:para xml:space="preserve">L'objectif étant de respecter le modèle mixte <sc:inlineStyle role="emp">G</sc:inlineStyle>lobal puis <sc:inlineStyle role="emp">A</sc:inlineStyle>nalytique et enfin <sc:inlineStyle role="emp">G</sc:inlineStyle>lobal.</sc:para>
 													</op:txt>
 												</sp:txt>
-												<sp:img sc:refUri="/ConceptionLeconGAG.png"/>
+												<sp:img sc:refUri="/assets/img/ConceptionLeconGAG.png"/>
 											</op:txtRes>
 										</sp:txtRes>
 									</op:res>
@@ -84,7 +84,7 @@
 														<sc:para xml:space="preserve">Dans la partie d'objectif intermédiaire, on retrouve une déclinaison du but de la leçon mais décomposé par partie d'exercice afin de quantifier ce qui est maîtrisé de ce qui ne l'est pas et ainsi d'améliorer son entraînement.</sc:para>
 													</op:txt>
 												</sp:txt>
-												<sp:img sc:refUri="/ConceptionLeconObjectifIntermediaire.png"/>
+												<sp:img sc:refUri="/assets/img/ConceptionLeconObjectifIntermediaire.png"/>
 											</op:txtRes>
 										</sp:txtRes>
 									</op:res>
@@ -116,7 +116,7 @@
 										<sp:txt>
 											<op:txt>
 												<sc:para xml:space="preserve">C'est à cette étape là et seulement maintenant, que nous allons définir quel exercice nous allons appliquer pour atteindre le but recherché.</sc:para>
-												<sc:para xml:space="preserve">En respectant cette manière de procéder, à savoir : "Quel est mon but ? Donc j'applique précisément ça !" et pas l'inverse alors je suis assuré d'atteindre ma cible.</sc:para>
+												<sc:para xml:space="preserve">En respectant cette manière de procéder, à savoir : &quot;Quel est mon but ? Donc j'applique précisément ça !&quot; et pas l'inverse alors je suis assuré d'atteindre ma cible.</sc:para>
 											</op:txt>
 										</sp:txt>
 									</op:res>

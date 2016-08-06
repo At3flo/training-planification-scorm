@@ -13,7 +13,7 @@
 				</sp:txt>
 			</op:res>
 		</sc:question>
-		<sc:backgroundImage sc:refUri="/fichePlanificationEntrainementJournalier_vide.png"/>
+		<sc:backgroundImage sc:refUri="/assets/img/fichePlanificationEntrainementJournalier_vide.png"/>
 		<sc:choices>
 			<sc:choice solution="unchecked">
 				<sc:zone>

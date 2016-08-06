@@ -88,7 +88,7 @@
 								<sc:para xml:space="preserve"><sc:inlineStyle role="spec">Choisissez un but à atteindre, puis le moyen d'y parvenir, pas l'inverse !</sc:inlineStyle></sc:para>
 							</op:txt>
 						</sp:txt>
-						<sp:img sc:refUri="/Conception_enseignement.png"/>
+						<sp:img sc:refUri="/assets/img/Conception_enseignement.png"/>
 					</op:txtRes>
 				</sp:txtRes>
 				<sp:txtRes>
@@ -141,7 +141,7 @@
 								</sc:itemizedList>
 							</op:txt>
 						</sp:txt>
-						<sp:img sc:refUri="/conceptionGAG.png"/>
+						<sp:img sc:refUri="/assets/img/conceptionGAG.png"/>
 					</op:txtRes>
 				</sp:txtRes>
 			</op:res>
@@ -161,7 +161,7 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve"><sc:uLink role="docLnk" sc:refUri="/fichePlanificationEntrainementJournalier.pdf">Fiche planification entraînement journalier</sc:uLink></sc:para>
+										<sc:para xml:space="preserve"><sc:uLink role="docLnk" sc:refUri="/assets/pdf/fichePlanificationEntrainementJournalier.pdf">Fiche planification entraînement journalier</sc:uLink></sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>
