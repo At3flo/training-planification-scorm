@@ -45,7 +45,7 @@
 					</sc:row>
 					<sc:row>
 						<sc:cell>
-							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>test</sp:option><sp:option>test 2</sp:option></sp:options></op:gapM>échauffement</sc:textLeaf></sc:para>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM><sp:options><sp:option>test</sp:option><sp:option>test 2</sp:option></sp:options></op:gapM>échauffement</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>

@@ -146,9 +146,9 @@
 				</sp:txtRes>
 			</op:res>
 		</sp:intro>
-		<sp:courseUa sc:refUri="/01_butLecon.xml"/>
-		<sp:courseUa sc:refUri="/02_contenuLecon.xml"/>
-		<sp:courseUa sc:refUri="/03_analyseLecon.xml"/>
+		<sp:courseUa sc:refUri="/sub/01_butLecon.xml"/>
+		<sp:courseUa sc:refUri="/sub/02_contenuLecon.xml"/>
+		<sp:courseUa sc:refUri="/sub/03_analyseLecon.xml"/>
 		<sp:courseUc>
 			<op:expUc>
 				<op:uM>

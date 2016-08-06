@@ -55,7 +55,7 @@
 									<op:res>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">La conception GAG est disponible ici : <sc:uLink role="ucLnk" sc:refUri="/formulerObjectifSmart.xml">toto</sc:uLink></sc:para>
+												<sc:para xml:space="preserve">La conception GAG est disponible ici : <sc:uLink role="ucLnk" sc:refUri="/sub/formulerObjectifSmart.xml">toto</sc:uLink></sc:para>
 											</op:txt>
 										</sp:txt>
 									</op:res>
@@ -94,7 +94,7 @@
 									<op:res>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">N'oubliez pas de faire des objectifs SMART, même pour les objectifs intermédiaires. Reportez-vous à l'<sc:uLink role="ucLnk" sc:refUri="/formulerObjectifSmart.xml">explication des objectifs SMART</sc:uLink> vue précédemment.</sc:para>
+												<sc:para xml:space="preserve">N'oubliez pas de faire des objectifs SMART, même pour les objectifs intermédiaires. Reportez-vous à l'<sc:uLink role="ucLnk" sc:refUri="/sub/formulerObjectifSmart.xml">explication des objectifs SMART</sc:uLink> vue précédemment.</sc:para>
 											</op:txt>
 										</sp:txt>
 									</op:res>
@@ -211,6 +211,6 @@
 				</sp:div>
 			</op:expUc>
 		</sp:courseUc>
-		<sp:trainUcCloze sc:refUri="/02_tatContenuLecon.quiz"/>
+		<sp:trainUcCloze sc:refUri="/sub/02_tatContenuLecon.quiz"/>
 	</op:courseUa>
 </sc:item>
