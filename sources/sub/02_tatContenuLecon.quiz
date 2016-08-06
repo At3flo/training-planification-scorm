@@ -17,6 +17,9 @@
 			<op:clozeTxt>
 				<sc:table role="">
 					<sc:caption xml:space="preserve">02 Exercices</sc:caption>
+					<sc:column width="2"/>
+					<sc:column width="2"/>
+					<sc:column role="" width="2"/>
 					<sc:column width="18"/>
 					<sc:column width="11"/>
 					<sc:column width="13"/>
@@ -24,6 +27,15 @@
 					<sc:column width="11"/>
 					<sc:column width="11"/>
 					<sc:row>
+						<sc:cell>
+							<sc:para xml:space="preserve">G</sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve">A</sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve">G</sc:para>
+						</sc:cell>
 						<sc:cell>
 							<sc:para xml:space="preserve">Objectif intérmédaire</sc:para>
 						</sc:cell>
@@ -45,6 +57,15 @@
 					</sc:row>
 					<sc:row>
 						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
 							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>échauffement</sp:option><sp:option>test 2</sp:option></sp:options></op:gapM>échauffement</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell/>
@@ -54,6 +75,15 @@
 						<sc:cell/>
 					</sc:row>
 					<sc:row>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -68,11 +98,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -81,11 +106,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -100,11 +120,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -113,11 +128,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -132,11 +142,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -145,11 +150,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -164,11 +164,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -177,11 +172,6 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -196,8 +186,102 @@
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
 					</sc:row>
 					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
