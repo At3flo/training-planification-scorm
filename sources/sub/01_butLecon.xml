@@ -672,7 +672,7 @@
 				</sc:group>
 				<sc:globalExplanation>
 					<op:res>
-						<sp:int sc:refUri="/assets/pdf/fichePlanificationEntrainementJournalier.pdf">
+						<sp:int sc:refUri="/assets/pdf/fichePlanificationEntrainementJournalierCorrectionPartie1.pdf">
 							<op:instructionM/>
 						</sp:int>
 					</op:res>
