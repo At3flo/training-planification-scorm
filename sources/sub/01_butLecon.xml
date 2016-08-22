@@ -45,7 +45,7 @@
 													<sc:para xml:space="preserve">Age des jeunes</sc:para>
 												</sc:cell>
 												<sc:cell>
-													<sc:para xml:space="preserve">8-11 ans</sc:para>
+													<sc:para xml:space="preserve">15-18 ans</sc:para>
 												</sc:cell>
 											</sc:row>
 											<sc:row>
@@ -53,7 +53,7 @@
 													<sc:para xml:space="preserve">Catégorie junior</sc:para>
 												</sc:cell>
 												<sc:cell>
-													<sc:para xml:space="preserve">Juniors C</sc:para>
+													<sc:para xml:space="preserve">Juniors A</sc:para>
 												</sc:cell>
 											</sc:row>
 											<sc:row>
@@ -448,7 +448,7 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">En prenant en compte la situation de départ de votre équipe de Juniors C, définissez les buts SMART du prochain entraînement journalier. Consigne : seuls deux thèmes pourront être abordés dans le temps donné.</sc:para>
+								<sc:para xml:space="preserve">En prenant en compte la situation de départ de votre équipe de Juniors A, définissez les buts SMART du prochain entraînement journalier. Consigne : seuls deux thèmes pourront être abordés dans le temps donné.</sc:para>
 								<sc:para xml:space="preserve">Rappel de la situation de départ de l'équipe : </sc:para>
 								<sc:table role="">
 									<sc:caption xml:space="preserve">Situation de départ</sc:caption>
@@ -465,7 +465,7 @@
 											<sc:para xml:space="preserve">Age des jeunes</sc:para>
 										</sc:cell>
 										<sc:cell>
-											<sc:para xml:space="preserve">8-11 ans</sc:para>
+											<sc:para xml:space="preserve">15-18 ans</sc:para>
 										</sc:cell>
 									</sc:row>
 									<sc:row>
@@ -473,7 +473,7 @@
 											<sc:para xml:space="preserve">Catégorie junior</sc:para>
 										</sc:cell>
 										<sc:cell>
-											<sc:para xml:space="preserve">Juniors C</sc:para>
+											<sc:para xml:space="preserve">Juniors A</sc:para>
 										</sc:cell>
 									</sc:row>
 									<sc:row>
