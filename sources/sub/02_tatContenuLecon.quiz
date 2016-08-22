@@ -17,15 +17,15 @@
 			<op:clozeTxt>
 				<sc:table role="">
 					<sc:caption xml:space="preserve">02 Exercices</sc:caption>
-					<sc:column width="2"/>
-					<sc:column width="2"/>
-					<sc:column role="" width="2"/>
-					<sc:column width="18"/>
-					<sc:column width="11"/>
+					<sc:column width="5"/>
+					<sc:column width="5"/>
+					<sc:column role="" width="5"/>
 					<sc:column width="13"/>
-					<sc:column width="11"/>
-					<sc:column width="11"/>
-					<sc:column width="11"/>
+					<sc:column width="15"/>
+					<sc:column width="13"/>
+					<sc:column width="8"/>
+					<sc:column width="8"/>
+					<sc:column width="5"/>
 					<sc:row>
 						<sc:cell>
 							<sc:para xml:space="preserve">G</sc:para>
@@ -60,15 +60,38 @@
 							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell>
-							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Respect des règles en équipe</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>L'équilibre dans le cercle</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+						<sc:cell/>
+					</sc:row>
+					<sc:row>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell>
 							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell>
-							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>échauffement</sp:option><sp:option>test 2</sp:option></sp:options></op:gapM>échauffement</sc:textLeaf></sc:para>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
 						</sc:cell>
-						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Shoots sur le goal avec déviation</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Shoots masqués en arc de cercle</sc:textLeaf></sc:para>
+						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
@@ -76,218 +99,122 @@
 					</sc:row>
 					<sc:row>
 						<sc:cell>
-							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell>
 							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell>
-							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>1 contre 1 et shoots du poignet</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Double/triple passes &amp; entrée en zone en 1 contre 1</sc:textLeaf></sc:para>
 						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
 					</sc:row>
 					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Rotation de tous les joueurs &lt;90 sec</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Jeu libre</sc:textLeaf></sc:para>
+						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 					</sc:row>
 					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>X</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Effectuer du stretching au sol</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>Étirements des jambes, du dos et des adducteurs</sc:textLeaf></sc:para>
+						</sc:cell>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 						<sc:cell/>
 					</sc:row>
 					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
 					</sc:row>
 					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-					</sc:row>
-					<sc:row>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
-						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>Respect des règles en équipe</sp:option><sp:option>Shoots sur le goal avec déviation</sp:option><sp:option>1 contre 1 et shoots du poignet</sp:option><sp:option>Rotation de tous les joueurs &lt;90 sec</sp:option><sp:option>Effectuer du stretching au sol</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>L'équilibre dans le cercle</sp:option><sp:option>Shoots masqués en arc de cercle</sp:option><sp:option>Double/triple passes &amp; entrée en zone en 1 contre 1</sp:option><sp:option>Jeu libre</sp:option><sp:option>Étirements des jambes, du dos et des adducteurs</sp:option><sp:option>aaaa</sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell/>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
+						<sc:cell>
+							<sc:para xml:space="preserve"><sc:textLeaf role="gap"><op:gapM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:options><sp:option>X</sp:option><sp:option> </sp:option></sp:options></op:gapM>aaaa</sc:textLeaf></sc:para>
+						</sc:cell>
 					</sc:row>
 				</sc:table>
 			</op:clozeTxt>
