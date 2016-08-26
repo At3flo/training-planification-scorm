@@ -9,6 +9,37 @@
 				<sp:txt>
 					<op:txt>
 						<sc:para xml:space="preserve">Remplissez le tableau ci-dessous, comme si vous prépariez votre entraînement, en vous vous basant sur les points vus précédemment.</sc:para>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie GAG, choisissez d'une croix ce qu'il convient.</sc:para>
+							</sc:listItem>
+						</sc:itemizedList>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie Objectif intermédiaire, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[1 contre 1 et shoots du poignet | Stretching au sol |  Rotation des joueurs &lt;90 sec | Respect des règles en équipe | Shoots sur le goal avec déviation | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie Choix d'exercice, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[Jeu libre | L'équilibre dans le cercle | Shoots masqués en arc de cercle | Double passe, entrée zone 1o1 | Étirements jambes/dos/adducteurs | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie Organisation / Méthode, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[Equipe en cercle donne la main | 2 équipes réparties / 2 côtés | 4 groupes à la ligne rouge | 2 groupes avec changements | Individuel | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie Pts à relever / à corriger, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[Ne pas suivre les règles = danger | Shoot ras terre, Goalie masqué | Attention exercice symétrique | Soutien au gardien, changements | Ne pas forcer | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Pour la partie Matériel, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[rien | balles | casaques | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Et enfin pour la partie Tps, vous avez le choix entre :</sc:para>
+								<sc:para xml:space="preserve">[5 min | 10 min | 15 min | 20 min | <sc:inlineStyle role="spec">vide</sc:inlineStyle>]</sc:para>
+							</sc:listItem>
+						</sc:itemizedList>
 					</op:txt>
 				</sp:txt>
 			</op:res>
@@ -17,15 +48,15 @@
 			<op:clozeTxt>
 				<sc:table role="">
 					<sc:caption xml:space="preserve">02 Exercices</sc:caption>
-					<sc:column width="5"/>
-					<sc:column width="5"/>
-					<sc:column role="" width="5"/>
+					<sc:column width="9"/>
+					<sc:column width="9"/>
+					<sc:column role="" width="9"/>
 					<sc:column width="13"/>
-					<sc:column width="12"/>
 					<sc:column width="15"/>
-					<sc:column width="15"/>
-					<sc:column width="10"/>
-					<sc:column width="5"/>
+					<sc:column width="16"/>
+					<sc:column width="16"/>
+					<sc:column width="13"/>
+					<sc:column width="6"/>
 					<sc:row>
 						<sc:cell>
 							<sc:para xml:space="preserve">G</sc:para>
