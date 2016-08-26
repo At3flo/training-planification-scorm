@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:odRoot xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:odRootM>
+			<sp:version>0.1</sp:version>
+			<sp:date>26.08.2016</sp:date>
+			<sp:id>SHA8100004</sp:id>
+			<sp:auth>
+				<op:sTxt>
+					<sc:para xml:space="preserve">Nathalie Borgognon</sc:para>
+				</op:sTxt>
+			</sp:auth>
+			<sp:logo sc:refUri="/assets/img/swissStreethockey.png"/>
+			<sp:contentFilter>standard</sp:contentFilter>
+			<sp:settings>
+				<sp:quest>no</sp:quest>
+				<sp:solPractUc>yes</sp:solPractUc>
+				<sp:solQuiz>yes</sp:solQuiz>
+				<sp:solAssmntUa>yes</sp:solAssmntUa>
+				<sp:resource>yes</sp:resource>
+				<sp:uc>yes</sp:uc>
+			</sp:settings>
+		</op:odRootM>
+		<sp:ue sc:refUri="/planificationEntrainementJournalier.xml"/>
+	</op:odRoot>
+</sc:item>
