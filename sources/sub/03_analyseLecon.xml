@@ -8,8 +8,17 @@
 		<sp:trainUcCoQuiz>
 			<op:coQuiz>
 				<op:exeM>
-					<sp:title>Questionnaire sur la partie auto-évaluation</sp:title>
+					<sp:title>Questionnaire sur l'auto-évaluation</sp:title>
 				</op:exeM>
+				<sp:quest>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Un joueur vient tout juste de débuter au poste d'entraîneur. A la sortie de l'entraînement, il est démoralisé ! Quels sont les conseilles que tu lui donnerais ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:quest>
 				<sp:trainUcMcqSur>
 					<op:mcqSur>
 						<op:exeM>
@@ -19,7 +28,7 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Dans la liste ci-dessous, quels sont les objectifs dit SMART applicable à un entraînement/match ?</sc:para>
+										<sc:para xml:space="preserve">Dans la liste ci-dessous, quelle phrase définie le mieux le but de l'évaluation de la réalisation des objectifs ? Attention une seule réponse possible !</sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>
@@ -28,28 +37,65 @@
 							<sc:choice>
 								<sc:choiceLabel>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Définir si l'objectif dépasse largement les attentes.</sc:para>
 									</op:txt>
 								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Le but est d'être le plus spécifique possible afin de pouvoir quantifier les amélioration à effectuer. Comme les objectifs définis au départ sont SMART, on peut donc quantifier l'atteinte ou non des objectifs.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
 							</sc:choice>
 							<sc:choice>
 								<sc:choiceLabel>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Définir de combien l'objectif initial a été atteint, ou non.</sc:para>
 									</op:txt>
 								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Certes, c'est une part importante, mais est-ce vraiment le but recherché dans une approche d'amélioration continue ?</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice>
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Du rapport entre les moyens engagés et le résultat obtenu.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">C'est une composante extrêmement importante, sans cela, on risque d'investir beaucoup d'énergie dans des entraînements qui n'aurons pas beaucoup d'efficacité sur l'évolution de l'équipe et des joueurs.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice>
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Quantifier les éléments qui ont contribué, ou non, à atteindre l'objectif.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">C'est ça ! L'idée derrière tout ça est de déterminer ce qui a bien marché de ce qui a moins marché afin de constamment améliorer son entraînement et ainsi d'amener l'équipe vers le succès.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice>
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Une combinaison de tous les points ci-dessus.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Désolé une phrase ne colle pas ici ! D'un point de vue de l'entraîneur on cherche constamment  a se remettre en question ; en cherchant également les points qui n'ont pas bien fonctionné - pas seulement les points positifs - afin d'améliorer les performances de son équipe.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
 							</sc:choice>
 						</sc:choices>
-						<sc:solution choice="2"/>
-						<sc:globalExplanation>
-							<op:res>
-								<sp:txt>
-									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
-									</op:txt>
-								</sp:txt>
-							</op:res>
-						</sc:globalExplanation>
+						<sc:solution choice="4"/>
 					</op:mcqSur>
 				</sp:trainUcMcqSur>
 				<sp:trainUcMcqMur>
@@ -61,7 +107,7 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Le but est d'évaluer le déroulement d'un entraînement afin de l'améliorer, soyez constructif ! En cas de besoin, reportez-vous à la partie <sc:uLink role="ucLnk" sc:refUri="/sub/evaluerUnEntraînement.xml">comment évaluer un entraînement</sc:uLink> vue précédemment. </sc:para>
+										<sc:para xml:space="preserve">Le but ici est d'évaluer le déroulement d'un entraînement afin de l'améliorer, soyez constructif ! Quels</sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>

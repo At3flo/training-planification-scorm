@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<trace><start t="27/08/16 11:39:20"/><l t="Info" d="27/08/16 11:39:20"><message type="Info" thread="chain-executor-9" ts="1472290760941" desc="Reconnection OpenOffice..."/></l><l t="Info" d="27/08/16 11:39:20"><message type="Info" thread="chain-executor-9" ts="1472290760941" desc="Starting OpenDocument editor in pipe mode."/></l><end t="27/08/16 11:39:28"/></trace>
+<trace><start t="27/08/16 11:48:17"/><l t="Info" d="27/08/16 11:48:18"><message type="Info" thread="chain-executor-12" ts="1472291298278" desc="Reconnection OpenOffice..."/></l><l t="Info" d="27/08/16 11:48:18"><message type="Info" thread="chain-executor-12" ts="1472291298279" desc="Starting OpenDocument editor in pipe mode."/></l><end t="27/08/16 11:48:25"/></trace>

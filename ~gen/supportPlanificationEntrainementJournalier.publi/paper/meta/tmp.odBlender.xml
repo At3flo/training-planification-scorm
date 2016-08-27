@@ -310,19 +310,23 @@
 							
 					<text:list text:style-name="op_5f_match_5f__20__3e__20_listMatchLabel_20__3e__20_list"><text:list-item text:start-value="1">
 							
-									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Chacun aide son coéquipier</text:p>
-								
-						</text:list-item><text:list-item>
-							
-									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Les joueurs restent couchés en silence pendant 5min lors du debriefing</text:p>
-								
-						</text:list-item><text:list-item>
-							
 									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">90% des tirs sont cadrés durant le jeu libre</text:p>
 								
 						</text:list-item><text:list-item>
 							
+									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Taux d'arrêt des shoots masqués &gt;70%</text:p>
+								
+						</text:list-item><text:list-item>
+							
 									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Améliorer la conduite de balles des gardiens</text:p>
+								
+						</text:list-item><text:list-item>
+							
+									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Les joueurs restent couchés en silence lors du debriefing</text:p>
+								
+						</text:list-item><text:list-item>
+							
+									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Chacun aide son coéquipier</text:p>
 								
 						</text:list-item><text:list-item>
 							
@@ -334,15 +338,11 @@
 								
 						</text:list-item><text:list-item>
 							
-									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Les joueurs restent couchés en silence lors du debriefing</text:p>
-								
-						</text:list-item><text:list-item>
-							
 									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_"> </text:p>
 								
 						</text:list-item><text:list-item>
 							
-									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Taux d'arrêt des shoots masqués &gt;70%</text:p>
+									<text:p text:style-name="op_5f_labelTxt_5f__20__3e__20_paraTag_5f_">Les joueurs restent couchés en silence pendant 5min lors du debriefing</text:p>
 								
 						</text:list-item><text:list-item>
 							

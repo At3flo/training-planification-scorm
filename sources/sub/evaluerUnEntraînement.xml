@@ -13,7 +13,7 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Une fois l'entraînement mais <sc:inlineStyle role="emp">surtout pendant celui-ci</sc:inlineStyle>, il faut procéder à l'évaluation  de l'entraînement journalier. Pour ce faire, il est important de garder à l'esprit quels étaient les objectifs SMART à atteindre, ainsi que les moyens pour y arriver, respectivement la communication employée pour transmettre la matière.</sc:para>
+								<sc:para xml:space="preserve">Une fois l'entraînement terminé, mais <sc:inlineStyle role="emp">surtout pendant celui-ci</sc:inlineStyle>, il faut procéder à l'évaluation  de l'entraînement journalier. Pour ce faire, il est important de garder à l'esprit quels étaient les objectifs à atteindre, ainsi que les moyens pour y arriver, respectivement la communication employée pour transmettre la matière.</sc:para>
 								<sc:para xml:space="preserve">Afin d'évaluer son entraînement il est utile de se poser les questions suivantes, et surtout de noter les améliorations potentielles à apporter au prochain entraînement :</sc:para>
 							</op:txt>
 						</sp:txt>
@@ -44,7 +44,7 @@
 												<sc:para xml:space="preserve">Quels facteurs se sont révélés favorables (ou défavorables) au bon déroulement de l'entraînement ?</sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Pour atteindre l'objectif, quels éléments qui se sont révélés nécessaires ? Lesquels superflus ? Lesquels ont-ils fait défaut ?</sc:para>
+												<sc:para xml:space="preserve">Pour atteindre l'objectif, quels sont les éléments qui se sont révélés nécessaires ? Lesquels superflus ? Lesquels ont fait défaut ?</sc:para>
 											</sc:listItem>
 											<sc:listItem>
 												<sc:para xml:space="preserve">Quel est le rapport entre les moyens engagés et le résultat obtenu ?</sc:para>
@@ -75,7 +75,7 @@
 									<op:txt>
 										<sc:itemizedList>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Comment les les joueurs jugent-ils l'efficacité et la qualité de l'entraînement donné ?</sc:para>
+												<sc:para xml:space="preserve">Comment les joueurs jugent-ils l'efficacité et la qualité de l'entraînement donné ?</sc:para>
 											</sc:listItem>
 											<sc:listItem>
 												<sc:para xml:space="preserve">Les responsabilités et les compétences de chacun (assistants, capitaines, resp. gourdes, etc.) étaient-elles suffisamment claires ? Les engagements ont-ils été tenus ?</sc:para>
@@ -87,7 +87,7 @@
 												<sc:para xml:space="preserve">L'horaire a-t-il été respecté ? Le temps a-t-il été utilisé de manière optimale ?</sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">L'investissement-temps respect-il le planning annuel ?</sc:para>
+												<sc:para xml:space="preserve">L'investissement-temps global de cet entraînement respect-il le planning annuel ?</sc:para>
 											</sc:listItem>
 											<sc:listItem>
 												<sc:para xml:space="preserve">Les ressources (matériel, outils, etc.) utilisées étaient-elles appropriées ?</sc:para>
