@@ -100,11 +100,9 @@
 						</sc:choices>
 						<sc:globalExplanation>
 							<op:res>
-								<sp:txt>
-									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
-									</op:txt>
-								</sp:txt>
+								<sp:int sc:refUri="/assets/pdf/fichePlanificationEntrainementJournalierCorrectionPartie3.pdf">
+									<op:instructionM/>
+								</sp:int>
 							</op:res>
 						</sc:globalExplanation>
 					</op:mcqMur>
