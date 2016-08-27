@@ -155,7 +155,7 @@
 								</sc:choiceLabel>
 								<sc:choiceExplanation>
 									<op:txt>
-										<sc:para xml:space="preserve">Excellente idée ! Cela aura l'énorme avantage de responsabiliser les joueurs. Attention à travailler par rotation pour les responsabilités de chacun.</sc:para>
+										<sc:para xml:space="preserve">Excellente idée ! Cela aura l'énorme avantage de responsabiliser les joueurs. Attention à travailler par rotation pour les responsabilités de chacun et ne pas donner se travail au dernier venu, ce serait contre productif. De plus, cela aurait pour conséquence vraisemblable de diminuer la motivation de nouveaux joueurs à venir dans l'équipe.</sc:para>
 									</op:txt>
 								</sc:choiceExplanation>
 							</sc:choice>
@@ -168,6 +168,86 @@
 								<sc:choiceExplanation>
 									<op:txt>
 										<sc:para xml:space="preserve">Il est de la responsabilité de l'entraîneur de veiller au bien être de ses joueurs. Dans ce cas, organiser un responsable des gourdes poursuivra donc deux objectifs : 1. les joueurs peuvent être responsabilisés et 2. l'entraîneur peut s'assurer que tout le monde boit suffisamment.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="unchecked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous dites à l'entraîneur que l'équilibre en cercle n'apporte en effet pas grand chose et qu'il serait préférable de se concentrer sur d'autres activités.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Non ! Votre objectif pédagogique est d'améliorer la concentration de votre équipe et vous avez opté pour un exercice sous forme de rituel d'équipe ce qui peut s'avérer très fructueux dans les "money time" en match. Persévérez !</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="unchecked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Refaire l'exercice de 1 contre 1 la semaine prochaine.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Oui mais non. Si votre équipe n'est pas prête pour ce genre d'exercice c'est qu'il y a plusieurs problèmes :</sc:para>
+										<sc:orderedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Le choix technique n'était pas le bon.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'investissement-temps pour arriver à la maîtrise de cet exercice vous fera sûrement perdre de vue l'objectif annuel.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Vous n'avez sûrement pas utilisé les bons moyens adéquat pour guider l'exercice (cônes de parcours, scotch au sol pour les chemins de passes, etc.)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'exercice n'a pas assez été  entraîné sous une forme élémentaire plus simple (double passe, carrousel, 1o1, poignet, etc.).</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les démonstrations n'étaient pas claires. Changer de technique d'explication.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Appuyer sur vos meilleurs joueurs pour montrer l'exercice, mais assurez-vous que ceux-ci ont compris, sinon gare aux fous rires.</sc:para>
+											</sc:listItem>
+										</sc:orderedList>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="checked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Offrir plus d'opportunités de feedback pour des joueurs.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Un joueur qui peut réellement s'exprimer sur ses attentes, ses besoins et ses craintes et qui est entendu, n'ira pas se plaindre chez lui, mais plutôt directement vers vous. Et cela aura l'énorme avantage de vous faire évoluer à un meilleur niveau.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="unchecked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Le jeu libre n'a pas été à la hauteur des attentes en termes de tirs, 30 pompes pour tous !</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Grave erreur ! Vous aviez communiqué vos objectifs, qui étaient d'avoir 90% de tirs cadrés sur le but et cet objectif gourmand a contre toute attente été atteint ! Vous perdriez petit à petit la confiance de votre équipe en procédant de la sorte. Pourquoi ne pas mettre "tir dans n'importe quelles positions" comme prochain objectif annuel ? Cela devrait résoudre le problème du nombre de tirs sur le gardien s'il est correctement entraîné.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="checked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Féliciter l'équipe pour avoir atteint le deuxième objectif du jour.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Ainsi vous entretenez la motivation de vos joueurs et vous ancrez le message qu'un objectif atteint même lors d'exercice partiellement réussi est toujours récompensé. Continuez !</sc:para>
 									</op:txt>
 								</sc:choiceExplanation>
 							</sc:choice>
