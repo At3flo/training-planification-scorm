@@ -4,40 +4,22 @@
 		<op:uM>
 			<sp:title>03 | Analyse de la leçon</sp:title>
 		</op:uM>
-		<sp:courseUc>
-			<op:expUc>
-				<op:uM>
-					<sp:title>Contrôler les objectifs</sp:title>
-				</op:uM>
-				<sp:pb>
-					<op:pb>
-						<sp:info>
-							<op:pbTi/>
-							<op:res>
-								<sp:txt>
-									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
-									</op:txt>
-								</sp:txt>
-							</op:res>
-						</sp:info>
-					</op:pb>
-				</sp:pb>
-			</op:expUc>
-		</sp:courseUc>
+		<sp:courseUc sc:refUri="/sub/evaluerUnEntraînement.xml"/>
 		<sp:trainUcCoQuiz>
 			<op:coQuiz>
 				<op:exeM>
-					<sp:title>Questionnaire sur la partie analyse</sp:title>
+					<sp:title>Questionnaire sur la partie auto-évaluation</sp:title>
 				</op:exeM>
 				<sp:trainUcMcqSur>
 					<op:mcqSur>
-						<op:exeM/>
+						<op:exeM>
+							<sp:title>Questions sur la partie théorique de l'auto-évaluation</sp:title>
+						</op:exeM>
 						<sc:question>
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Dans la liste ci-dessous, quels sont les objectifs dit SMART applicable à un entraînement/match ?</sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>
@@ -72,12 +54,14 @@
 				</sp:trainUcMcqSur>
 				<sp:trainUcMcqMur>
 					<op:mcqMur>
-						<op:exeM/>
+						<op:exeM>
+							<sp:title>Questions sur la pratique d'un entraînement</sp:title>
+						</op:exeM>
 						<sc:question>
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla </sc:para>
+										<sc:para xml:space="preserve">Le but est d'évaluer le déroulement d'un entraînement afin de l'améliorer, soyez constructif ! En cas de besoin, reportez-vous à la partie <sc:uLink role="ucLnk" sc:refUri="/sub/evaluerUnEntraînement.xml">comment évaluer un entraînement</sc:uLink> vue précédemment. </sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>

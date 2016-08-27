@@ -13,7 +13,8 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Une fois l'entraînement mais <sc:inlineStyle role="emp">surtout pendant celui-ci</sc:inlineStyle>, il faut procéder à l'évaluation  de l'entraînement journalier. Pour ce faire, il est important d'avoir à l'esprit quel était l'objectif SMART à atteindre, ainsi que les moyens pour y arriver, respectivement la communication employée pour transmettre la matière.</sc:para>
+								<sc:para xml:space="preserve">Une fois l'entraînement mais <sc:inlineStyle role="emp">surtout pendant celui-ci</sc:inlineStyle>, il faut procéder à l'évaluation  de l'entraînement journalier. Pour ce faire, il est important de garder à l'esprit quels étaient les objectifs SMART à atteindre, ainsi que les moyens pour y arriver, respectivement la communication employée pour transmettre la matière.</sc:para>
+								<sc:para xml:space="preserve">Afin d'évaluer son entraînement il est utile de se poser les questions suivantes, et surtout de noter les améliorations potentielles à apporter au prochain entraînement :</sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>
@@ -65,6 +66,45 @@
 				<op:expUcDivM>
 					<sp:title>Évaluer l'organisation du travail</sp:title>
 				</op:expUcDivM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Comment les les joueurs jugent-ils l'efficacité et la qualité de l'entraînement donné ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les responsabilités et les compétences de chacun (assistants, capitaines, resp. gourdes, etc.) étaient-elles suffisamment claires ? Les engagements ont-ils été tenus ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Est-ce que l'entraîneur a reçu suffisamment de soutien ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'horaire a-t-il été respecté ? Le temps a-t-il été utilisé de manière optimale ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'investissement-temps respect-il le planning annuel ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les ressources (matériel, outils, etc.) utilisées étaient-elles appropriées ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'emplacement de l'entraîneur (contre-jour, tableau tactique, etc.) ainsi que le lieu d'entraînement étaient-ils idéaux ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les exercices étaient-ils découpés et structurés en formes adaptées (forme globale VS analytique, exercice progressif, etc.) ?</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:info>
+					</op:pb>
+				</sp:pb>
 			</op:expUcDiv>
 		</sp:div>
 		<sp:div>
@@ -72,6 +112,53 @@
 				<op:expUcDivM>
 					<sp:title>Évaluer la communication</sp:title>
 				</op:expUcDivM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les possibilités de feedback de la part des joueurs étaient-elles suffisantes ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les joueurs communiquent-ils de manière suffisante sur le terrain ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Quels sont les améliorations dans la communication entre :</sc:para>
+												<sc:itemizedList>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Joueurs et entraîneur(s) ?</sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Joueurs et capitaines (C+A) ?</sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Joueurs entre eux ?</sc:para>
+													</sc:listItem>
+												</sc:itemizedList>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Est-ce que les corrections et les aides apportées aux joueurs ont été suffisantes ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les explications étaient-elles compréhensibles ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Est-ce que des aides appropriées ont été sollicitées (ex : joueurs expérimentés pour faire les démonstrations d'exercices) ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Les démonstrations étaient-elles claires ?</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:info>
+					</op:pb>
+				</sp:pb>
 			</op:expUcDiv>
 		</sp:div>
 		<sp:div>
@@ -86,7 +173,7 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Dans le cadre de la formation d'entraîneur, le document suivant sera utilisé pour évaluer la qualité de l'entraînement. La capacité d'auto-évaluation étant également évaluée, il est important de soi-même évaluer l'entraînement lors de l'entretien avec les experts.</sc:para>
 									</op:txt>
 								</sp:txt>
 								<sp:int sc:refUri="/assets/pdf/ficheEvaluationEntrainement.pdf">
