@@ -175,7 +175,20 @@
 			<op:res>
 				<sp:txt>
 					<op:txt>
-						<sc:para xml:space="preserve">bla bla</sc:para>
+						<sc:para xml:space="preserve">Dans ce module, vous avez été sensibilisé à la planification et la conduite d'un entraînement journalier dans les meilleures conditions possible, soit :</sc:para>
+						<sc:orderedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Définir un but SMART à atteindre, puis le moyen d'y parvenir, pas l'inverse.</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Choisir, organiser et planifier les moyens (exercices) pour atteindre le but, afin d'augmenter le plaisir des joueurs, et donc la qualité de la leçon.</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Analyser et évaluer un entraînement dans le but de performer.</sc:para>
+							</sc:listItem>
+						</sc:orderedList>
+						<sc:para xml:space="preserve">Retenir ces trois règles et la manière dont remplir le document de préparation d'entraînement vous permettra d'échouer plus vite, afin d'atteindre le succès plus tôt.</sc:para>
+						<sc:para xml:space="preserve">En outre la maîtrise de l'outil de planification de l'entraînement ainsi que la conduite de l'entraînement seront évaluer durant la semaine de formation des moniteurs Jeunesse et Sport. Ce module constitue dès lors une excellente opportunité de préparer le terrain avant de monter dessus.</sc:para>
 					</op:txt>
 				</sp:txt>
 			</op:res>
