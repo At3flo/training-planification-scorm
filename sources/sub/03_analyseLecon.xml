@@ -14,7 +14,8 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Un joueur vient tout juste de débuter au poste d'entraîneur. A la sortie de l'entraînement, il est démoralisé ! Quels sont les conseilles que tu lui donnerais ?</sc:para>
+								<sc:para xml:space="preserve">Un joueur vient tout juste de débuter au poste d'entraîneur. A la sortie de l'entraînement, il est démoralisé ! Vous lui demandez comment s'est passé son entraînement mais il vous dit qu'il ne sait pas vraiment comment l'évaluer. Vous lui expliquez alors qu'il aurait tout intérêt de fixer des objectifs SMART qui ont la particularité d'être Mesurable. Ceux-ci permettant de savoir précisément si l'on atteint sa cible ou non. </sc:para>
+								<sc:para xml:space="preserve">Dans un deuxième temps, il t'explique qu'est-ce qui s'est passé durant son entraînement sur le thème "Concentration et gardien" préparé précédemment. Tu analyse cela pour l'aider. Quels conseils  lui donneras-tu ?</sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>
@@ -28,7 +29,7 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Dans la liste ci-dessous, quelle phrase définie le mieux le but de l'évaluation de la réalisation des objectifs ? Attention une seule réponse possible !</sc:para>
+										<sc:para xml:space="preserve">Dans la liste ci-dessous, quelle phrase définie le mieux le but de l'évaluation de l'atteinte des objectifs ? Attention une seule réponse possible !</sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>
@@ -107,25 +108,68 @@
 							<op:res>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Le but ici est d'évaluer le déroulement d'un entraînement afin de l'améliorer, soyez constructif ! Quels</sc:para>
+										<sc:para xml:space="preserve">Durant l'entraînement de 60 minutes, il a été constaté que :</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Le temps de jeu libre a été jugé, par les joueurs, comme étant trop court.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Il n'y avait pas de gourdes pour cet entraînement, car l'entraîneur n'avait pas eu le temps de les remplir.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'équipe a adoré l'exercice d'équilibre en cercle. Mais l'entraîneur se dit que cela n'améliorera pas le niveau de l'équipe.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">L'exercice de 1 contre 1 a pris beaucoup de temps a être expliqué, résultat les joueurs faisaient n'importe quoi !</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Un parent a appelé l'entraîneur pour se plaindre des exercices de stretching.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">3 tirs sur 3 tentatives ont été cadrés pour toute la durée du jeu libre.</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">Quelles phrases pourriez-vous inscrire au bas du document de la préparation de la leçon sous "Feedback et analyse" ? Le but ici est d'évaluer le déroulement d'un entraînement et de choisir parmi les solutions ci-dessous, afin de l'améliorer, soyez constructif !</sc:para>
 									</op:txt>
 								</sp:txt>
 							</op:res>
 						</sc:question>
 						<sc:choices>
-							<sc:choice solution="checked">
+							<sc:choice solution="unchecked">
 								<sc:choiceLabel>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Doubler le temps de jeu.</sc:para>
 									</op:txt>
 								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Le temps maximum a disposition n'est que de 60 min, il faut donc choisir soigneusement ses exercices. Comme l'équipe est très bonne en conduite de balle, il est évident que le jeu est un moment privilégié, pourquoi ne pas axer plus les exercices sur cet aspect en intégrant les élément du programme annuel ?</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
 							</sc:choice>
 							<sc:choice solution="checked">
 								<sc:choiceLabel>
 									<op:txt>
-										<sc:para xml:space="preserve">bla bla</sc:para>
+										<sc:para xml:space="preserve">Donner la tâche de remplir les gourdes à un joueur de l'équipe.</sc:para>
 									</op:txt>
 								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Excellente idée ! Cela aura l'énorme avantage de responsabiliser les joueurs. Attention à travailler par rotation pour les responsabilités de chacun.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
+							</sc:choice>
+							<sc:choice solution="unchecked">
+								<sc:choiceLabel>
+									<op:txt>
+										<sc:para xml:space="preserve">Ne plus mettre de gourdes à disposition, chacun est libre ou non d'en prendre.</sc:para>
+									</op:txt>
+								</sc:choiceLabel>
+								<sc:choiceExplanation>
+									<op:txt>
+										<sc:para xml:space="preserve">Il est de la responsabilité de l'entraîneur de veiller au bien être de ses joueurs. Dans ce cas, organiser un responsable des gourdes poursuivra donc deux objectifs : 1. les joueurs peuvent être responsabilisés et 2. l'entraîneur peut s'assurer que tout le monde boit suffisamment.</sc:para>
+									</op:txt>
+								</sc:choiceExplanation>
 							</sc:choice>
 						</sc:choices>
 						<sc:globalExplanation>
