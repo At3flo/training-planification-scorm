@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:expUc xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:uM>
+			<sp:title>Évaluer son entraînement</sp:title>
+		</op:uM>
+		<sp:pb>
+			<op:pb>
+				<sp:info>
+					<op:pbTi>
+						<sp:title>Comment faire de l'auto-évaluation ?</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Une fois l'entraînement mais <sc:inlineStyle role="emp">surtout pendant celui-ci</sc:inlineStyle>, il faut procéder à l'évaluation  de l'entraînement journalier. Pour ce faire, il est important d'avoir à l'esprit quel était l'objectif SMART à atteindre, ainsi que les moyens pour y arriver, respectivement la communication employée pour transmettre la matière.</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:info>
+			</op:pb>
+		</sp:pb>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Évaluer la réalisation des objectifs</sp:title>
+				</op:expUcDivM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Est-ce que l'objectif SMART défini initialement a été atteint ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">De combien a-t-il été dépassé ou approché ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Quels facteurs se sont révélés favorables (ou défavorables) au bon déroulement de l'entraînement ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Pour atteindre l'objectif, quels éléments qui se sont révélés nécessaires ? Lesquels superflus ? Lesquels ont-ils fait défaut ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Quel est le rapport entre les moyens engagés et le résultat obtenu ?</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Quels autres effets souhaités ou indésirables se sont produits lors de l'entraînement ?</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:info>
+					</op:pb>
+				</sp:pb>
+			</op:expUcDiv>
+		</sp:div>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Évaluer l'organisation du travail</sp:title>
+				</op:expUcDivM>
+			</op:expUcDiv>
+		</sp:div>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Évaluer la communication</sp:title>
+				</op:expUcDivM>
+			</op:expUcDiv>
+		</sp:div>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Examen pratique final</sp:title>
+				</op:expUcDivM>
+			</op:expUcDiv>
+		</sp:div>
+	</op:expUc>
+</sc:item>
