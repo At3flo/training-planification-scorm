@@ -1,1 +1,1 @@
-Initiate project
+Planification de l'entraînement journalier
